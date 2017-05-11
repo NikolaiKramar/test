@@ -3,4 +3,4 @@
 "Who's There?"
 "Git."
 "Git who?"
-"git this joke over with."
+"Git on with the assignment!"
